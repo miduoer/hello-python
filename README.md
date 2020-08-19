@@ -1,2 +1,2 @@
 # hello-python
-learn python
+Great GitHub
